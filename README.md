@@ -7,3 +7,8 @@ I am a student interested in programming and software development.
 
 This project showcases my programming skills and learning progress.
 It contains documentation and examples of my technical work.
+## Skills
+
+- Java
+- Git and GitHub
+- HTML and CSS
